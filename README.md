@@ -1,6 +1,7 @@
 # Tarea 5 – Sistemas Embebidos con ESP32 y FreeRTOS
 
 Este repositorio contiene el desarrollo de la Tarea #5 de la asignatura Sistemas Embebidos. El proyecto se enfoca en la implementación de comunicación serial bidireccional y sistemas multitarea en tiempo real utilizando ESP32, ESP-IDF y FreeRTOS.
+Funcionamiento: https://youtu.be/b-aOoY6wn2A
 
 ## Integrantes
 - Daniela Basilio
